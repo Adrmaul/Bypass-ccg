@@ -19,6 +19,7 @@ _other_installs
 pip3 install -U pip
 git clone $REPO_URL Github_Repo
 cd Github_Repo
+git clone https://github.com/Myudi422/anibotccgnimex
 pip3 install -U -r requirements.txt
 _externals
-python $PYTHON_FILE
+python $PYTHON_FILE && -m anibot
