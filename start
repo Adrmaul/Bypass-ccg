@@ -20,4 +20,4 @@ pip3 install -U pip
 git clone https://github.com/Adrmaul/ccg ccgnimex
 cd ccgnimex
 _externals
-python -m anibot
+python -m amime
